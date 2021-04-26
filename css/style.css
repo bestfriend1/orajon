@@ -558,6 +558,7 @@ img{
 .ntt{
 	display: block;
 	padding: 15px 10px;
+	box-sizing: border-box;
 	text-align: center;
 	background-color: #05152e;
 }
