@@ -133,6 +133,7 @@ img{
 	border: 1px solid #ddd;
 	box-sizing: border-box;
 	padding: 10px 6px;
+	transition: all 0.3s linear;
 }
 .only-for-you-product-img{
 	display: flex;
@@ -280,6 +281,9 @@ img{
 .only-for-btn a:hover{
 	background-color: #8db654;
 	color: #fff;
+}
+.only-for-you-product:hover{
+	border-color: #8db654;
 }
 /*footer-area*/
 .footer-area{
